@@ -1,0 +1,207 @@
+19:24:47.436 Starting VishalLogsProject1Application using Java 17.0.7 with PID 16604 (C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1\target\classes started by rohan_raj in C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1)
+19:24:47.446 No active profile set, falling back to 1 default profile: "default"
+19:24:48.495 Tomcat initialized with port(s): 8092 (http)
+19:24:48.503 Initializing ProtocolHandler ["http-nio-8092"]
+19:24:48.506 Starting service [Tomcat]
+19:24:48.506 Starting Servlet engine: [Apache Tomcat/10.1.12]
+19:24:48.634 Initializing Spring embedded WebApplicationContext
+19:24:48.635 Root WebApplicationContext: initialization completed in 1155 ms
+19:24:49.275 Exposing 15 endpoint(s) beneath base path '/actuator'
+19:24:49.321 Starting ProtocolHandler ["http-nio-8092"]
+19:24:49.346 Tomcat started on port(s): 8092 (http) with context path ''
+19:24:49.362 Started VishalLogsProject1Application in 2.282 seconds (process running for 3.802)
+19:24:49.635 Initializing Spring DispatcherServlet 'dispatcherServlet'
+19:24:49.635 Initializing Servlet 'dispatcherServlet'
+19:24:49.636 Completed initialization in 1 ms
+19:28:17.398 Application shutdown requested.
+19:28:17.428 Pausing ProtocolHandler ["http-nio-8092"]
+19:28:17.428 Stopping service [Tomcat]
+19:28:17.429 Destroying Spring FrameworkServlet 'dispatcherServlet'
+19:28:17.434 Stopping ProtocolHandler ["http-nio-8092"]
+19:28:17.437 Destroying ProtocolHandler ["http-nio-8092"]
+19:28:31.226 Starting VishalLogsProject1Application using Java 17.0.7 with PID 11356 (C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1\target\classes started by rohan_raj in C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1)
+19:28:31.236 No active profile set, falling back to 1 default profile: "default"
+19:28:32.320 Tomcat initialized with port(s): 8092 (http)
+19:28:32.331 Initializing ProtocolHandler ["http-nio-8092"]
+19:28:32.333 Starting service [Tomcat]
+19:28:32.334 Starting Servlet engine: [Apache Tomcat/10.1.12]
+19:28:32.489 Initializing Spring embedded WebApplicationContext
+19:28:32.489 Root WebApplicationContext: initialization completed in 1211 ms
+19:28:33.101 Exposing 15 endpoint(s) beneath base path '/actuator'
+19:28:33.153 Starting ProtocolHandler ["http-nio-8092"]
+19:28:33.180 Tomcat started on port(s): 8092 (http) with context path ''
+19:28:33.192 Started VishalLogsProject1Application in 2.359 seconds (process running for 4.124)
+19:28:33.783 Initializing Spring DispatcherServlet 'dispatcherServlet'
+19:28:33.785 Initializing Servlet 'dispatcherServlet'
+19:28:33.786 Completed initialization in 1 ms
+19:28:46.525 User Action shipping
+19:28:46.525 Iterations 10
+19:28:46.526 Product music
+19:28:46.527 Method Name fnLogin  Session Id web-1694440726526 Status=Success  Logging in user with email testEmail48@gmail.com
+19:28:46.528 Method Name fnProduct  Session Id web-1694440726526 Status=Success  Viewing product music
+19:28:46.528 Method Name fnAddToCart  Session Id web-1694440726526 Status=Success  Adding product to cart music
+19:28:46.528 Method Name fnShipping  Session Id web-1694440726526 Status=Success  Shipping product music
+19:28:46.528 Method Name fnLogin  Session Id web-1694440726528 Status=Success  Logging in user with email testEmail47@gmail.com
+19:28:46.529 Method Name fnProduct  Session Id web-1694440726528 Status=Success  Viewing product music
+19:28:46.529 Method Name fnAddToCart  Session Id web-1694440726528 Status=Success  Adding product to cart music
+19:28:46.529 Method Name fnShipping  Session Id web-1694440726528 Status=Success  Shipping product music
+19:28:46.530 Method Name fnLogin  Session Id web-1694440726530 Status=Success  Logging in user with email testEmail29@gmail.com
+19:28:46.530 Method Name fnProduct  Session Id web-1694440726530 Status=Success  Viewing product music
+19:28:46.530 Method Name fnAddToCart  Session Id web-1694440726530 Status=Success  Adding product to cart music
+19:28:46.530 Method Name fnShipping  Session Id web-1694440726530 Status=Success  Shipping product music
+19:28:46.531 Method Name fnLogin  Session Id web-1694440726531 Status=Success  Logging in user with email testEmail10@gmail.com
+19:28:46.531 Method Name fnProduct  Session Id web-1694440726531 Status=Success  Viewing product music
+19:28:46.532 Method Name fnAddToCart  Session Id web-1694440726531 Status=Success  Adding product to cart music
+19:28:46.532 Method Name fnShipping  Session Id web-1694440726531 Status=Success  Shipping product music
+19:28:46.532 Method Name fnLogin  Session Id web-1694440726532 Status=Success  Logging in user with email testEmail67@gmail.com
+19:28:46.533 Method Name fnProduct  Session Id web-1694440726532 Status=Success  Viewing product music
+19:28:46.533 Method Name fnAddToCart  Session Id web-1694440726532 Status=Success  Adding product to cart music
+19:28:46.533 Method Name fnShipping  Session Id web-1694440726532 Status=Success  Shipping product music
+19:28:46.533 Method Name fnLogin  Session Id web-1694440726533 Status=Success  Logging in user with email testEmail41@gmail.com
+19:28:46.533 Method Name fnProduct  Session Id web-1694440726533 Status=Success  Viewing product music
+19:28:46.533 Method Name fnAddToCart  Session Id web-1694440726533 Status=Success  Adding product to cart music
+19:28:46.534 Method Name fnShipping  Session Id web-1694440726533 Status=Success  Shipping product music
+19:28:46.534 Method Name fnLogin  Session Id web-1694440726534 Status=Success  Logging in user with email testEmail95@gmail.com
+19:28:46.534 Method Name fnProduct  Session Id web-1694440726534 Status=Success  Viewing product music
+19:28:46.534 Method Name fnAddToCart  Session Id web-1694440726534 Status=Success  Adding product to cart music
+19:28:46.535 Method Name fnShipping  Session Id web-1694440726534 Status=Success  Shipping product music
+19:28:46.535 Method Name fnLogin  Session Id web-1694440726535 Status=Success  Logging in user with email testEmail71@gmail.com
+19:28:46.535 Method Name fnProduct  Session Id web-1694440726535 Status=Success  Viewing product music
+19:28:46.535 Method Name fnAddToCart  Session Id web-1694440726535 Status=Success  Adding product to cart music
+19:28:46.536 Method Name fnShipping  Session Id web-1694440726535 Status=Success  Shipping product music
+19:28:46.536 Method Name fnLogin  Session Id web-1694440726536 Status=Success  Logging in user with email testEmail55@gmail.com
+19:28:46.536 Method Name fnProduct  Session Id web-1694440726536 Status=Success  Viewing product music
+19:28:46.536 Method Name fnAddToCart  Session Id web-1694440726536 Status=Success  Adding product to cart music
+19:28:46.536 Method Name fnShipping  Session Id web-1694440726536 Status=Success  Shipping product music
+19:28:46.537 Method Name fnLogin  Session Id web-1694440726537 Status=Success  Logging in user with email testEmail67@gmail.com
+19:28:46.537 Method Name fnProduct  Session Id web-1694440726537 Status=Success  Viewing product music
+19:28:46.537 Method Name fnAddToCart  Session Id web-1694440726537 Status=Success  Adding product to cart music
+19:28:46.537 Method Name fnShipping  Session Id web-1694440726537 Status=Success  Shipping product music
+19:29:43.823 Application shutdown requested.
+19:29:43.852 Pausing ProtocolHandler ["http-nio-8092"]
+19:29:43.852 Stopping service [Tomcat]
+19:29:43.854 Destroying Spring FrameworkServlet 'dispatcherServlet'
+19:29:43.859 Stopping ProtocolHandler ["http-nio-8092"]
+19:29:43.863 Destroying ProtocolHandler ["http-nio-8092"]
+19:30:15.420 Starting VishalLogsProject1Application using Java 17.0.7 with PID 36140 (C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1\target\classes started by rohan_raj in C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1)
+19:30:15.431 No active profile set, falling back to 1 default profile: "default"
+19:30:16.711 Tomcat initialized with port(s): 8092 (http)
+19:30:16.730 Initializing ProtocolHandler ["http-nio-8092"]
+19:30:16.733 Starting service [Tomcat]
+19:30:16.733 Starting Servlet engine: [Apache Tomcat/10.1.12]
+19:30:16.868 Initializing Spring embedded WebApplicationContext
+19:30:16.869 Root WebApplicationContext: initialization completed in 1399 ms
+19:30:17.452 Exposing 15 endpoint(s) beneath base path '/actuator'
+19:30:17.496 Starting ProtocolHandler ["http-nio-8092"]
+19:30:17.522 Tomcat started on port(s): 8092 (http) with context path ''
+19:30:17.537 Started VishalLogsProject1Application in 2.461 seconds (process running for 4.56)
+19:30:17.930 Initializing Spring DispatcherServlet 'dispatcherServlet'
+19:30:17.930 Initializing Servlet 'dispatcherServlet'
+19:30:17.931 Completed initialization in 1 ms
+19:30:32.571 User Action shipping
+19:30:32.571 Iterations 1
+19:30:32.571 Product music
+19:30:32.572 Method Name fnLogin  Session Id web-1694440832571 Status=Success  Logging in user with email testEmail16@gmail.com
+19:30:32.572 Method Name fnProduct  Session Id web-1694440832571 Status=Success  Viewing product music
+19:30:32.573 Method Name fnAddToCart  Session Id web-1694440832571 Status=Success  Adding product to cart music
+19:30:32.573 Method Name fnShipping  Session Id web-1694440832571 Status=Success  Shipping product music
+22:18:48.556 User Action loginError
+22:18:48.578 Iterations 5
+22:18:48.579 Product mobile
+22:18:48.584 Method Name fnLogin  Session Id web-1694450928581 Status=Error  Error Logging in user with email testEmail92@gmail.com
+22:18:48.584 Method Name fnLogin  Session Id web-1694450928584 Status=Error  Error Logging in user with email testEmail55@gmail.com
+22:18:48.585 Method Name fnLogin  Session Id web-1694450928585 Status=Error  Error Logging in user with email testEmail8@gmail.com
+22:18:48.585 Method Name fnLogin  Session Id web-1694450928585 Status=Error  Error Logging in user with email testEmail8@gmail.com
+22:18:48.585 Method Name fnLogin  Session Id web-1694450928585 Status=Error  Error Logging in user with email testEmail21@gmail.com
+23:46:18.912 User Action 
+23:46:18.914 Iterations 0
+23:46:18.914 Product 
+23:48:13.247 User Action 
+23:48:13.247 Iterations 0
+23:48:13.247 Product 
+00:02:51.346 User Action 
+00:02:51.356 Iterations 0
+00:02:51.356 Product 
+00:02:56.964 Application shutdown requested.
+00:02:57.112 Pausing ProtocolHandler ["http-nio-8092"]
+00:02:57.113 Stopping service [Tomcat]
+00:02:57.125 Destroying Spring FrameworkServlet 'dispatcherServlet'
+00:02:57.152 Stopping ProtocolHandler ["http-nio-8092"]
+00:02:57.156 Destroying ProtocolHandler ["http-nio-8092"]
+00:24:10.704 Starting VishalLogsProject1Application using Java 17.0.7 with PID 16636 (C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1\target\classes started by rohan_raj in C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1)
+00:24:10.716 No active profile set, falling back to 1 default profile: "default"
+00:24:11.793 Tomcat initialized with port(s): 8092 (http)
+00:24:11.804 Initializing ProtocolHandler ["http-nio-8092"]
+00:24:11.806 Starting service [Tomcat]
+00:24:11.806 Starting Servlet engine: [Apache Tomcat/10.1.12]
+00:24:11.943 Initializing Spring embedded WebApplicationContext
+00:24:11.943 Root WebApplicationContext: initialization completed in 1186 ms
+00:24:12.460 Exposing 15 endpoint(s) beneath base path '/actuator'
+00:24:12.502 Starting ProtocolHandler ["http-nio-8092"]
+00:24:12.525 Tomcat started on port(s): 8092 (http) with context path ''
+00:24:12.536 Started VishalLogsProject1Application in 2.142 seconds (process running for 3.559)
+00:24:13.041 Initializing Spring DispatcherServlet 'dispatcherServlet'
+00:24:13.041 Initializing Servlet 'dispatcherServlet'
+00:24:13.042 Completed initialization in 1 ms
+00:24:20.512 User Action 
+00:24:20.513 Iterations 0
+00:24:20.513 Product 
+00:25:45.033 User Action 
+00:25:45.033 Iterations 0
+00:25:45.033 Product 
+00:25:50.543 User Action 
+00:25:50.543 Iterations 0
+00:25:50.544 Product 
+00:26:28.566 User Action 
+00:26:28.566 Iterations 0
+00:26:28.566 Product 
+00:28:00.858 User Action 
+00:28:00.859 Iterations 0
+00:28:00.859 Product 
+00:28:28.503 User Action 
+00:28:28.504 Iterations 0
+00:28:28.504 Product 
+00:28:36.953 User Action 
+00:28:36.953 Iterations 0
+00:28:36.953 Product 
+00:28:47.645 User Action 
+00:28:47.646 Iterations 0
+00:28:47.646 Product 
+00:31:57.076 User Action 
+00:31:57.076 Iterations 0
+00:31:57.077 Product 
+01:01:32.841 User Action 
+01:01:32.842 Iterations 0
+01:01:32.842 Product 
+01:40:17.081 User Action 
+01:40:17.082 Iterations 0
+01:40:17.082 Product 
+01:40:21.405 User Action 
+01:40:21.406 Iterations 0
+01:40:21.406 Product 
+10:14:24.431 User Action 
+10:14:24.441 Iterations 0
+10:14:24.442 Product 
+10:19:34.482 Application shutdown requested.
+10:19:34.801 Pausing ProtocolHandler ["http-nio-8092"]
+10:19:34.803 Stopping service [Tomcat]
+10:19:34.819 Destroying Spring FrameworkServlet 'dispatcherServlet'
+10:19:34.864 Stopping ProtocolHandler ["http-nio-8092"]
+10:19:34.873 Destroying ProtocolHandler ["http-nio-8092"]
+21:45:19.769 Starting VishalLogsProject1Application using Java 17.0.7 with PID 22416 (C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1\target\classes started by rohan_raj in C:\Users\rohan_raj\Documents\Spring\log-project-main.zip_expanded\log-project-main\Vishal-logs-project-1)
+21:45:19.786 No active profile set, falling back to 1 default profile: "default"
+21:45:21.318 Tomcat initialized with port(s): 8092 (http)
+21:45:21.334 Initializing ProtocolHandler ["http-nio-8092"]
+21:45:21.338 Starting service [Tomcat]
+21:45:21.339 Starting Servlet engine: [Apache Tomcat/10.1.12]
+21:45:21.513 Initializing Spring embedded WebApplicationContext
+21:45:21.513 Root WebApplicationContext: initialization completed in 1667 ms
+21:45:22.279 Exposing 15 endpoint(s) beneath base path '/actuator'
+21:45:22.339 Starting ProtocolHandler ["http-nio-8092"]
+21:45:22.375 Tomcat started on port(s): 8092 (http) with context path ''
+21:45:22.391 Started VishalLogsProject1Application in 3.162 seconds (process running for 5.224)
+21:45:25.514 Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:45:25.514 Initializing Servlet 'dispatcherServlet'
+21:45:25.516 Completed initialization in 1 ms
+21:45:42.419 A cookie header was received [CMSCurrentDeviceProfileName=Default screen size;] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
